@@ -1,2 +1,2 @@
 # git-mysite
-Sandbox site for learning/experimenting
+Sandbox site for learning/experimenting!
